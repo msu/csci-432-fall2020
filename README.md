@@ -141,7 +141,7 @@ Please come to class prepared by reading and working on homework problems
 throughout the week.  We welcome questions!  In the Zoom breakout rooms, we
 expect that you are actively working on problems.  If needed, start your group
 by recapping what was discussed right before going into the breakout room or
-during the class perioud before.  If something is unclear, ask for a
+during the class period before.  If something is unclear, ask for a
 clarification from your classmate.  If your group is unsure of what the task is,
 please ask and do not sit idle!
 
